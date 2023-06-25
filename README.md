@@ -7,9 +7,11 @@ Replit link: https://boilerplate-project-timestamp.jose-miguelm376.repl.co/
 https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice
 
 <h2>Setup</h2>
-<p>This React app was made using Vite.</p><h5>Steps</h5><ul>
+<h5>Steps</h5>
+<ul>
 <li>Clone the repository.</li>
-</ul><ul>
+</ul>
+<ul>
 <li>Run the following commands to install dependencies and start development server.</li>
 
 ```bash
