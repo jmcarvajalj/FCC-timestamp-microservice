@@ -5,3 +5,13 @@ This is the Timestamp Microservice project. This project is part of the Back End
 Replit link: https://boilerplate-project-timestamp.jose-miguelm376.repl.co/
 
 https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/timestamp-microservice
+
+Run the following commands to install dependencies and start development server.
+
+```bash
+cd FCC-timestamp-microservice
+npm install
+npm run start
+```
+<h2>Contact</h2>
+<p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/jose-miguel-carvajal-jimenez/" target="_blank"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/jmcarvajalj" ><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
